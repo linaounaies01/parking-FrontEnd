@@ -1,70 +1,28 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Parkini - Plateforme d’abonnement pour le stationnement  
 
-## Available Scripts
+Parkini est une plateforme innovante conçue pour simplifier la gestion des abonnements et la réservation des places de stationnement en temps réel. Ce projet est développé avec la stack MERN (MongoDB, Express.js, React.js, Node.js).  
 
-In the project directory, you can run:
+## Fonctionnalités principales  
 
-### `npm start`
+- **Suivi en temps réel** : Intégration de la disponibilité des places de stationnement pour une gestion efficace.  
+- **Sélection facile des centres commerciaux** : Les utilisateurs peuvent choisir et réserver des places de stationnement rapidement.  
+- **Gestion des abonnements** : Offre une expérience utilisateur fluide grâce à une interface intuitive pour les abonnés.  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies utilisées  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Frontend** : React.js avec une interface utilisateur moderne et réactive.  
+- **Backend** : Node.js et Express.js pour gérer les API et les processus serveur.  
+- **Base de données** : MongoDB pour stocker et gérer les données des utilisateurs et des abonnements.  
+- **Autres outils** :  
+  - Mongoose pour la gestion des schémas MongoDB.  
+  - JWT pour l'authentification et la sécurité.  
+  - Axios pour les appels API.  
 
-### `npm test`
+## Installation  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clonez ce dépôt :  
+   ```bash
+   git clonehttps://github.com/linaounaies01/parking-FrontEnd
+   
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
